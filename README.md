@@ -1,0 +1,2 @@
+# aredirection
+Simple redirection plugin
